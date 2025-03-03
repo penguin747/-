@@ -5,7 +5,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>친구 소개</title>
+  <title>조랭을 소개한다</title>
   <style>
     * {
       margin: 0;
@@ -42,18 +42,18 @@
 </head>
 <body>
   <div class="section intro">
-    <h1>내 친구를 소개합니다!</h1>
-    <p>멋진 내 친구를 만나보세요.</p>
+    <h1>조랭 is king</h1>
+    <p>동희 엉덩이 동희</p>
   </div>
   
   <div class="section">
-    <h2>친구의 특징</h2>
-    <p>항상 밝고 긍정적인 에너지를 가지고 있어요!</p>
+    <h2>조랭의 특징</h2>
+    <p>조랭조랭함.</p>
   </div>
   
   <div class="section">
-    <h2>취미와 관심사</h2>
-    <p>음악 듣기, 여행, 맛있는 음식 먹기</p>
+    <h2>조랭조랭.</h2>
+    <p>하개찌따</p>
   </div>
   
   <div class="section gallery">
@@ -63,8 +63,8 @@
   </div>
   
   <div class="section">
-    <h2>추억 이야기</h2>
-    <p>함께했던 멋진 순간들을 잊지 못해요!</p>
+    <h2>조랭이야기</h2>
+    <p>통일초등학교 졸업</p>
   </div>
   
   <script>
