@@ -58,8 +58,10 @@
   
   <div class="section gallery">
     <h2>사진 갤러리</h2>
-    <img src="https://via.placeholder.com/200" alt="친구 사진 1">
-    <img src="https://via.placeholder.com/200" alt="친구 사진 2">
+    <img src="![image](https://github.com/user-attachments/assets/7694c5bd-b39a-410c-85bc-0e7380981e39)
+" alt="친구 사진 1">
+    <img src="![image](https://github.com/user-attachments/assets/f9617b48-0888-4b28-b98e-f3b80c4f006f)
+" alt="친구 사진 2">
   </div>
   
   <div class="section">
